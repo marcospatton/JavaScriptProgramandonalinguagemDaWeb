@@ -3,7 +3,7 @@
 <p>Curso Alura:<p>
 JavaScript Programando na linguagem da web
 
-,p>Ferramentas utilizadas: </p>
+<p><b>Ferramentas utilizadas:</b> </p>
 Editor de textos ATOM
 
 <p>Download: https://atom.io/</p>
