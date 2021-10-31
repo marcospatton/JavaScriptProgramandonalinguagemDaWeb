@@ -29,3 +29,7 @@ Editor de textos ATOM
 17)- A pegar o valor de um input por meio da propriedade .value<br>
 18)- A acessar os input de um form por meio da propriedade .name<br>
 19)- A adicionar elementos na página e dentro de outros elementos com a função appendChild()<br>
+20)- Dividir o código, separando por funcionalidades do sistema<br>
+21)- Os objetos em Javascript<br>
+22)- A quebrar funções grandes em funções menores ,com cada uma com sua responsabilidade<br>
+23)- A função <i>form.reset()</i> para limpar o formulário<br>
