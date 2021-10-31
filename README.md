@@ -1,6 +1,6 @@
 <p># JavaScriptProgramandonalinguagemDaWeb</p>
 
-<p>Curso Alura:<p>
+<p><b><u>Curso Alura:</u></b><p>
 JavaScript Programando na linguagem da web
 
 <p><b>Ferramentas utilizadas:</b> </p>
