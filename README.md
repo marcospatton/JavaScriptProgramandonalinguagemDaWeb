@@ -33,3 +33,9 @@ Editor de textos ATOM
 21)- Os objetos em Javascript<br>
 22)- A quebrar funções grandes em funções menores ,com cada uma com sua responsabilidade<br>
 23)- A função <i>form.reset()</i> para limpar o formulário<br>
+24)- Mais organização de código, exportando as funções de validação.<br>
+25)- O operador de negação NOT (!)<br>
+26)- Como validar um formulário<br>
+27)- A função push para colocar elementos dentro de um array<br>
+28)- A propriedade innerHTML dos elementos, que foi usada para apagar os itens da <ul><br>
+29)- O método forEach para percorrer arrays<br>
