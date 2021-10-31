@@ -37,7 +37,7 @@ Editor de textos ATOM
 25)- O operador de negação NOT (!)<br>
 26)- Como validar um formulário<br>
 27)- A função push para colocar elementos dentro de um array<br>
-28)- A propriedade innerHTML dos elementos, que foi usada para apagar os itens da <ul><br>
+28)- A propriedade innerHTML dos elementos, que foi usada para apagar os itens da < ul ><br>
 29)- O método forEach para percorrer arrays<br>
 30)- O novo evento de dblclick<br>
 31)- Como os eventos propagam atráves da página<br>
