@@ -78,11 +78,11 @@ function exibeMensagemsDeErro(erros){
           erros.push("O nome não pode ser em branco");
         }
 
-        if(!validaPeso(paciente.peso)){
-          erros.push("Peso é inválido")
+        if(!validaPeso(paciente.peso){
+          erros.push("Peso é inválido");
         }
-        if(!validaAltura(paciente.altura)){
-          erros.push("Altura é inválida!")
+        if(!validaAltura(paciente.altura){
+          erros.push("Altura é inválida!");
         }
 
         if(paciente.gordura.length == 0){
