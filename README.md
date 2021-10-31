@@ -39,3 +39,7 @@ Editor de textos ATOM
 27)- A função push para colocar elementos dentro de um array<br>
 28)- A propriedade innerHTML dos elementos, que foi usada para apagar os itens da <ul><br>
 29)- O método forEach para percorrer arrays<br>
+30)- O novo evento de dblclick<br><br>
+31)- Como os eventos propagam atráves da página<br>
+32)- A delegação de eventos<br>
+33)- Como animar uma remoção com o setTimeout<br>
