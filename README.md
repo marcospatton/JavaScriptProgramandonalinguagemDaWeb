@@ -43,3 +43,11 @@ Editor de textos ATOM
 31)- Como os eventos propagam atráves da página<br>
 32)- A delegação de eventos<br>
 33)- Como animar uma remoção com o setTimeout<br>
+34)- Como fazer uma requisição assíncrona com o Javascript<br>
+35)- O objeto XMLHttpRequest<br>
+36)- Como configurar e enviar uma requisição<br>
+37)- O evento de load<br>
+38)- O que é a técnica AJAX.<br>
+39)- O formato JSON<br>
+40)- Como converter JSON para um objeto Javascript com a função JSON.parse()<br>
+41)- Como lidar com erros durante o AJAX<br>
